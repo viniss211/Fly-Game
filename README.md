@@ -1,2 +1,2 @@
 # Fly-Game
-A fly swatter game for Java script training
+Um jogo de Mata mosquito para treino de java script
