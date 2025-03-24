@@ -1,4 +1,4 @@
-# Fly-Game 🪰
+# Fly-Game 🕹️
 
 Um jogo de matar moscas desenvolvido para treinar habilidades de front-end.
 
