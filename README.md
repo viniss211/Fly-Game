@@ -27,8 +27,15 @@ O Fly-Game é um projeto simples e divertido feito com HTML, CSS e JavaScript, c
 
 
 2. Acesse a pasta do projeto:
+   ```bash
+   cd Fly-Game
 
-cd Fly-Game
+3. Abra o arquivo index.html no seu navegador.
+   
+4. Escolha a dificuldade e comece o jogo.
+
+5. Clique nas moscas que aparecerem na tela antes que desapareçam. Se perder todas as vidas, o jogo acaba!
+
 
 
 
